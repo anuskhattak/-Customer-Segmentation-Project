@@ -29,3 +29,5 @@ Feature Selection: We selected 'Annual Income' and 'Spending Score' for clusteri
 Feature Scaling: StandardScaler was applied to ensure both features contributed equally to the model.
 
 Elbow Method: To determine the optimal number of clusters, we plotted WCSS (Inertia) and found that k = 5 is the best choice.
+
+![Elbow method ](download%20(3).png)

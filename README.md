@@ -21,7 +21,7 @@ Correlation: No strong correlation was found between Income and Age, indicating 
 
 ![Confusion Matrix](download%20(5).png)
 
-![Confusion Matrix](download%20(9).png)
+![Age distribution by persona](download%20(9).png)
 
 ⚙️ Methodology
 Feature Selection: We selected 'Annual Income' and 'Spending Score' for clustering.

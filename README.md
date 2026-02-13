@@ -18,7 +18,9 @@ Age Factor: Customers aged 18–35 have the highest spending scores, while indiv
 
 Correlation: No strong correlation was found between Income and Age, indicating that wealth and spending habits are not strictly tied to age.
 
-![Elbow Method](https://github.com/anuskhattak/Customer-Churn-Prediction/blob/main/image_b2e1fc.png?raw=true)
+![Age wise Spending Score](https://github.com/anuskhattak/Customer-Churn-Prediction/blob/main/image_b2e1d8.png?raw=true)
+*Caption: Youth (18-35 age group) exhibits the highest spending scores.*
+
 
 ⚙️ Methodology
 Feature Selection: We selected 'Annual Income' and 'Spending Score' for clustering.

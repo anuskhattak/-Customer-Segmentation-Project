@@ -18,7 +18,7 @@ Age Factor: Customers aged 18–35 have the highest spending scores, while indiv
 
 Correlation: No strong correlation was found between Income and Age, indicating that wealth and spending habits are not strictly tied to age.
 
-![Confusion Matrix](download%20(4).png)
+![Confusion Matrix](download%20(5).png)
 
 
 
